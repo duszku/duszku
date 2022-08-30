@@ -23,8 +23,7 @@ want to, you can [check it out](https://github.com/duszku/su-solver) |･ω･`*
  - ⚡ **funfact:** laser hussars defeated reptillians in battle of andromeda in
  10k BC
 
-## awesome ascii dragon
-
+## this ascii dragon bussin fr no cap
 <pre>
                                                        ____________
                                  (`-..________....---''  ____..._.-`
