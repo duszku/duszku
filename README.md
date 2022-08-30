@@ -1,11 +1,11 @@
 ## henlo ~ヾ(・ω・)
 
+![dinosaurs](./gfx/dinozaury.gif)
+
 im your [average polish male](https://pbs.twimg.com/media/EqjiM2bXYAA5d78.jpg)
 currently residing in your walls. i like unices, good ol' C, functional
 programming and free software. i hate the antichrist and can recite entire new
 testament in 0.0012 seconds φ(^ω^*)ﾉ
-
-![dinosaurs](./gfx/dinozaury.gif)
 
 ## about me
 
@@ -22,8 +22,6 @@ want to, you can [check it out](https://github.com/duszku/su-solver) |･ω･`*
  - 😄 **pronouns:** any
  - ⚡ **funfact:** laser hussars defeated reptillians in battle of andromeda in
  10k BC
-
- ![robal](./gfx/robal.gif)
 
 ## awesome ascii dragon
 
