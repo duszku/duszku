@@ -19,7 +19,6 @@ want to, you can [check it out](https://github.com/duszku/su-solver) |･ω･`*
  - 📫 **how to reach me:** draw a pentagram with a pink chalk in your bedroom
  and call
  my name twice backwards at midnight
- - 😄 **pronouns:** any
  - ⚡ **funfact:** laser hussars defeated reptillians in battle of andromeda in
  10k BC
 
