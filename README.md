@@ -11,7 +11,7 @@ testament in 0.0012 seconds φ(^ω^*)ﾉ
 
 listen up, im not very good at anything tbh. im still studying. i currently
 focus on uni stuff but i do have one project in progress. its called asciify
-and it takes pics and makes them into ascii art, nothing fancy but you can
+and it takes pics and makes them into ascii art, nothing big but you can
 [check it out](https://github.com/duszku/asciify)
 |･ω･`*)ッ
 
