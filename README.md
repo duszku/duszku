@@ -9,7 +9,7 @@ recite entire new testament in 0.0012 seconds φ(^ω^*)ﾉ
 ## about me
 
 im somewhat good at C. workin on
-[porting some haskell behaviour](https://github.com/duszku/libfunc) to it rn,
+[porting some haskell behaviour](https://github.com/duszku/libfunc) to it rn.
 it goes hard, feel free to ~screenshot~ use it to your heart's content, its in
 early development tho |･ω･`*)ッ
 
