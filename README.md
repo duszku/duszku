@@ -14,8 +14,8 @@ it goes hard, feel free to ~screenshot~ use it to your heart's content, its in
 early development tho |･ω･`*)ッ
 
  - 🌱 **im currently learning:** unix systems programming, planning on picking
- up some common lisp if uni doesnt take as much of my time next semester as it
- did recently
+ up some common lisp or learning assembly a lil bit more in-depth if uni
+ doesnt take as much of my time next semester as it did recently
  - 📫 **how to reach me:** draw a pentagram with a pink chalk in your bedroom
  and call my name twice backwards at midnight
  - ⚡ **funfact:** laser winged hussars defeated reptillians in battle of
