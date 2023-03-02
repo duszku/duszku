@@ -2,7 +2,7 @@
 
 ![dinosaurs](./gfx/dinozaury.gif)
 
-average polish male currently residing in your walls. i like unices, good ol'
+average polish male currently residing i̸n̵ ̷y̴o̷u̴r̵ ̸w̶a̶l̷l̷s̵. i like unices, good ol'
 C, functional programming and free software. i hate the antichrist and can
 recite entire new testament in 0.0012 seconds φ(^ω^*)ﾉ
 
