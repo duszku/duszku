@@ -2,20 +2,21 @@
 
 ![dinosaurs](./gfx/dinozaury.gif)
 
-average polish male currently residing i̸n̵ ̷y̴o̷u̴r̵ ̸w̶a̶l̷l̷s̵. i like unices, good ol'
-C, functional programming and free software. i hate the antichrist and can
-recite entire new testament in 0.0012 seconds φ(^ω^*)ﾉ
+i like unices, good ol' C, functional programming and free software.
 
 ## about me
 
 im somewhat good at C. workin on
 [porting some haskell behaviour](https://github.com/duszku/libfunc) to it rn.
-it goes hard, feel free to ~screenshot~ use it to your heart's content, its in
-early development tho |･ω･`*)ッ
+it goes hard, feel free to ~screenshot~ use it to your heart's content, work's
+still in progress tho |･ω･`*)ッ
 
- - 🌱 **im currently learning:** unix systems programming, planning on picking
- up some embedded, maybe learning freertos api or some stm32 stuff if uni does
- not take up all of my time next sem
+i also did [ascii art generator](https://github.com/duszku/asciify) and a
+[snake game](https://github.com/duszku/snekk), all in C with latter using
+pthreads and curses
+
+ - 🌱 **im currently learning:** moar unix systems programming, planning on
+ picking up some embedded, maybe learning freertos api or some stm32 stuff
  - 📫 **how to reach me:** draw a pentagram with a pink chalk in your bedroom
  and call my name twice backwards at midnight
  - ⚡ **funfact:** laser winged hussars defeated reptillians in battle of
