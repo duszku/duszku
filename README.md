@@ -22,7 +22,7 @@ pthreads and curses
  - ⚡ **funfact:** laser winged hussars defeated reptillians in battle of
  andromeda in 10k BC
 
-## this ascii dragon bussin fr no cap
+## coolest ascii dragon ive seen so far
 <pre>
                                                        ____________
                                  (`-..________....---''  ____..._.-`
