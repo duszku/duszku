@@ -17,8 +17,6 @@ pthreads and curses
 
  - 🌱 **im currently learning:** moar unix systems programming, planning on
  picking up some embedded, maybe learning freertos api or some stm32 stuff
- - 📫 **how to reach me:** draw a pentagram with a pink chalk in your bedroom
- and call my name twice backwards at midnight
  - ⚡ **funfact:** laser winged hussars defeated reptillians in battle of
  andromeda in 10k BC
 
