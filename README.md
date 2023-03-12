@@ -7,9 +7,12 @@ i like unices, good ol' C, functional programming and free software.
 ## about me
 
 im somewhat good at C. workin on
-[porting some haskell behaviour](https://github.com/duszku/libfunc) to it rn.
-it goes hard, feel free to ~screenshot~ use it to your heart's content, work's
-still in progress tho |･ω･`*)ッ
+[an interactive chess engine](https://github.com/duszku/cheng) rn, but this
+project is a baby at this stage, so there isn't much to see yet.
+
+i also [port some thigs from haskell to c](https://github.com/duszku/libfuncc)
+from time to time whenever i feel the need to do so.
+it goes hard, feel free to ~screenshot~ use it to your heart's content |･ω･`*)ッ
 
 i also did [ascii art generator](https://github.com/duszku/asciify) and a
 [snake game](https://github.com/duszku/snekk), all in C with latter using
