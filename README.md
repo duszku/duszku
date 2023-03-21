@@ -7,8 +7,8 @@ i like unices, good ol' C, functional programming and free software.
 ## about me
 
 im somewhat good at C. workin on
-[an interactive chess engine](https://github.com/duszku/cheng) rn, but this
-project is a baby at this stage, so there isn't much to see yet.
+[an interactive chess engine](https://github.com/duszku/cheng) rn. im already
+very proud of it, even though its far from finished and doesnt do much yet.
 i also [port some things from haskell to c](https://github.com/duszku/libfuncc)
 from time to time whenever i feel the need to do so.
 it goes hard, feel free to ~screenshot~ use it to your heart's content |･ω･`*)ッ
