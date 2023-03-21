@@ -18,7 +18,7 @@ i also did [ascii art generator](https://github.com/duszku/asciify) and a
 pthreads and curses
 
  - 🌱 **im currently learning:** moar unix systems programming, planning on
- picking up some embedded, maybe learning rtos api or some deeper assembly
+ picking up some embedded, maybe learning rtos or some deeper assembly
  - ⚡ **funfact:** laser winged hussars defeated reptillians in battle of
  andromeda in 10k BC
 
