@@ -1,28 +1,33 @@
-## henlo ~ヾ(・ω・)
+# Henlo ~ヾ(・ω・)
 
 ![dinosaurs](./gfx/dinozaury.gif)
 
-i like unices, good ol' C, functional programming and free software.
+Apprentice machine conjurer and a Unix main.
 
-## about me
+## My projects
 
-im somewhat good at C. workin on
-[an interactive chess engine](https://github.com/duszku/cheng) rn. im already
-very proud of it, even though its far from finished and doesnt do much yet.
-i also [port some things from haskell to c](https://github.com/duszku/libfuncc)
-from time to time whenever i feel the need to do so.
-it goes hard, feel free to ~screenshot~ use it to your heart's content |･ω･`*)ッ
+I'm somewhat good at C and most of my projects are written in it. I'm currently
+working on
+[an interactive chess engine](https://github.com/duszku/cheng)
+.
+There is still long way until it will do something useful, but hey - Rome wasn't
+built in a day.
 
-i also did [ascii art generator](https://github.com/duszku/asciify) and a
-[snake game](https://github.com/duszku/snekk), all in C with latter using
-pthreads and curses
+Other then that I have a library where I
+[port some things from Haskell to C](https://github.com/duszku/libfuncc)
+from time to time whenever I miss some feature found in the former. As of now
+the algorithm for its development has no stopping condition and growth is
+incremental and only observable when I'm working on something else and need
+some nice abstraction layer I'd rather not make a part of the other project.
 
- - 🌱 **im currently learning:** moar unix systems programming, planning on
- picking up some embedded, maybe learning rtos or some deeper assembly
- - ⚡ **funfact:** laser winged hussars defeated reptillians in battle of
- andromeda in 10k BC
+Besides that there are other, smaller things:
 
-## coolest ascii dragon ive seen so far
+- [ascii art generator](https://github.com/duszku/asciify)
+- [snake game](https://github.com/duszku/snekk)
+- [ops subject chain notes](https://github.com/duszku/operating-systems-notes)
+
+## Coolest ascii dragon I've seen so far
+
 <pre>
                                                        ____________
                                  (`-..________....---''  ____..._.-`
