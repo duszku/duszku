@@ -2,6 +2,8 @@
 
 ![dinosaurs](./gfx/dinozaury.gif)
 
+## yo check this out
+
 <pre>
                                                        ____________
                                  (`-..________....---''  ____..._.-`
